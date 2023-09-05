@@ -5,7 +5,7 @@ function App() {
   return (
    <>
    <div>
-    <h2>hii Sani</h2>
+    <h2>hii Sani new</h2>
    </div>
    </>
   );
